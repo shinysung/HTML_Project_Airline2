@@ -1,7 +1,7 @@
-Project name : Sungshine Airline2
+Project name : Sungshine Airline ver.2
 
 Description:
 
-Implementing a flight booking page.
+Implementing a upgraded flight booking page.
 
 P.S. .svg files need to be in the folder named 'images'
